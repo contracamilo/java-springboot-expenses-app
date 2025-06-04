@@ -1,5 +1,7 @@
 # Expense Tracker Backend
 
+[front](https://github.com/contracamilo/angular-expenses-app)
+
 ## Descripción General
 
 Este proyecto es el backend para una aplicación de seguimiento de gastos. Permite a los usuarios registrar y gestionar sus gastos, asociándolos a categorías predefinidas. Inicialmente, el sistema contaba con autenticación de usuarios y la posibilidad de que estos crearan sus propias categorías, pero fue simplificado para enfocarse en la funcionalidad principal de registro de gastos con categorías fijas.
